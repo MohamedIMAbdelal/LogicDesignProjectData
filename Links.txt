@@ -1,0 +1,14 @@
+4026 Counter : https://www.youtube.com/watch?v=HuVM-GvXMK8&t=39s&pp=ygUMNDAyNiBjb3VudGVy
+
+counter 4026 + Timer 555(change frequency) :
+https://www.youtube.com/watch?v=ezQ_i-vy2fs&pp=ygUMNDAyNiBjb3VudGVy
+
+cascade Counter 4026 : 
+https://www.youtube.com/watch?v=kfYKslapP8s&pp=ygUMNDAyNiBjb3VudGVy
+
+
+counter 4026 + Timer (proteus) :
+https://www.youtube.com/watch?v=1i9yW5s503o&pp=ygUXNDAyNiBjb3VudGVyIDk5IHByb3RldXM%3D
+
+clock :
+https://youtu.be/jLeyweKixvs?t=1137

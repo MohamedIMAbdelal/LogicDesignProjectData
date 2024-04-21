@@ -1,0 +1,20 @@
+1 Lm7805  
+resistors  (32* 330ohm + 100k + 100k pot + 2*1k)  
+1 Buzzer  
+Capacitor (1uf*1 - 10uf - 47uf - 100uf)
+2  Switch  
+2  push button  
+40 jumper wires M-M 
+10 jumper wires F-M
+1 Battery clip  
+1 Battery phillips 9V  
+6 segment  
+4 breadboard  
+1 breadboard jumper wires kit 
+1 7404 ic  
+1 7408 ic  
+2 NE555  
+1 7432 ic  
+2 4071 ic   
+4 4026 ic  
+5 LED  
